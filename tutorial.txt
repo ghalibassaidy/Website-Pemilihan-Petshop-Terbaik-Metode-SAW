@@ -1,0 +1,9 @@
+Cara Install :
+
+1. Ekstrak file spk_coffe.rar.
+2. pindahkan folder hasil ekstrakan ke file htdocs di xampp kamu.
+3. import database (yang ada di folder database) ke phpmyadmin sesuaikan nama database dengan yang ada di program spk tersebut.
+4. jalankan aplikasi di web browser atau chrome dengan alamat localhost/spk_raket (sesuaikan dengan nama folder projek spk kamu).
+5. login : username = admin, password = 123.
+
+Selamat mencoba....
